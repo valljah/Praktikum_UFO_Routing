@@ -1,0 +1,1 @@
+tell app "Terminal" to do script "java -cp PycharmProjects/Praktikum_2/py4j0.10.9.2.jar:PycharmProjects/Praktikum_2/ufosim3-2-7p.jar de.thi.ufo.UfoSim"
